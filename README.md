@@ -1,2 +1,2 @@
 # MySQL-Workbench
-Modelagem relacional
+Modelo conceitual e esquema de banco de dados relacional
